@@ -121,4 +121,4 @@ Key features: `hour_of_day`, `day_of_week`, `item_type`, `transaction_amount`, `
 ## 👩‍💻 Author
 
 **Zunaisha Javaid**  
-[GitHub](https://github.com/Zunaisha-Javaid) · Computer Science Student
+[GitHub](https://github.com/Zunaisha-Javaid) · Software Engineering Student
